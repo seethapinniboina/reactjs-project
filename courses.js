@@ -1,0 +1,1 @@
+var courseTitle = "ReactJs"
